@@ -10,8 +10,8 @@ from datetime import datetime, timedelta, timezone
 #ဒီနေရာမှာchangeပေးပါbro
 BOT_TOKEN = "8980601502:AAFohlUv1IAQtk9iC6XJJy7EOB4UXTPBKIw"
 GITHUB_TOKEN = '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'
-REPO_OWNER = "mgsainewlay211"
-REPO_NAME = "Bot4"
+REPO_OWNER = "makkqt"
+REPO_NAME = "Bot"
 ADMIN_ID = "8728200516"
 ##################
 

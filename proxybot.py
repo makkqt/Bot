@@ -18,9 +18,9 @@ from datetime import datetime, timedelta, timezone
 
 # --- Configuration (GitHub / VPS လုံခြုံရေးအတွက် Environment Variables သုံးပါ) ---
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8980601502:AAFohlUv1IAQtk9iC6XJJy7EOB4UXTPBKIw")
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "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")
-REPO_OWNER = os.getenv("REPO_OWNER", "mgsainewlay211")
-REPO_NAME = os.getenv("REPO_NAME", "Bot4")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "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")
+REPO_OWNER = os.getenv("REPO_OWNER", "makkqt")
+REPO_NAME = os.getenv("REPO_NAME", "Bot")
 ADMIN_ID = os.getenv("ADMIN_ID", "8728200516")
 
 # --- Proxy Configuration ---
